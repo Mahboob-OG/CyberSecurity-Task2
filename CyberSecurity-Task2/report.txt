@@ -1,0 +1,20 @@
+======================================
+ Phishing Email Analysis Report
+======================================
+
+This report details the phishing indicators found in the provided email sample pretending to be from PayPal.
+
+1.  Suspicious Sender Address
+     The email was sent from `services@paypal-accounts.com`. This is not an official PayPal domain. The addition of "-accounts" is a common trick used to deceive users[cite: 9].
+
+2.  Urgent and Threatening Language
+    * The email creates a false sense of urgency to provoke an immediate, emotional reaction[cite: 12]. Phrases used include:
+        * "Your account access has been limited"
+        * "You have 24 hours to solve the problem"
+        * "your account will be permanetly disabled"
+
+3.  Spelling and Grammar Errors
+    * The email contains a clear spelling mistake[cite: 15]. The word "permanently" is misspelled as "permanetly". Professional companies rarely make such obvious errors.
+
+4.  Suspicious Link
+    * The email's primary goal is to get the user to click the "Confirm Your Information" button[cite: 11]. In a real phishing attack, this link would lead to a fake login page designed to steal the user's password, not the official PayPal website[cite: 14].
